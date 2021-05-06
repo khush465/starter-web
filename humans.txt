@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Harsh - Manager - @harshita
 
 # THANKS
 
